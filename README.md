@@ -5,3 +5,7 @@ This repository is home to recipes project which is a part of the Foundations Cu
 # Technologies used
 
 Only HTML (Hypertext markup language)
+
+# Live view
+
+You can view the site live at : https://rishav-gayen.github.io/Odin-recipes/
